@@ -1,1 +1,1 @@
-:link: https://zongmin.github.io/
+:link: https://zon-zong-min.github.io/Collections/
